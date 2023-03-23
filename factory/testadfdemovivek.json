@@ -1,0 +1,9 @@
+{
+	"name": "testadfdemovivek",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28648ffd-43a7-4528-b4c2-92b339f27072",
+		"tenantId": "99c1bf28-601e-4650-a883-8035f860e381"
+	}
+}
