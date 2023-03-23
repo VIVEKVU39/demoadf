@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "testadfdemovivek"
+		},
+		"AzureBlobStorage1linkedservice_connectionString": {
+			"value": ""
+		},
+		"trigger2_properties_typeProperties_scope": {
+			"value": "/subscriptions/2af608f7-b160-4113-85c8-f1b6bee02649/resourceGroups/Testenv/providers/Microsoft.Storage/storageAccounts/storagevivekadf"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
